@@ -1,0 +1,54 @@
+    <!-- sponsor section start here -->
+    <div class="sponsor-section section-bg">
+        <div class="container">
+            <div class="section-wrapper">
+                <div class="sponsor-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="sponsor-iten">
+                                <div class="sponsor-thumb">
+                                    <img src="assets/images/sponsor/01.png" alt="sponsor">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="sponsor-iten">
+                                <div class="sponsor-thumb">
+                                    <img src="assets/images/sponsor/02.png" alt="sponsor">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="sponsor-iten">
+                                <div class="sponsor-thumb">
+                                    <img src="assets/images/sponsor/03.png" alt="sponsor">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="sponsor-iten">
+                                <div class="sponsor-thumb">
+                                    <img src="assets/images/sponsor/04.png" alt="sponsor">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="sponsor-iten">
+                                <div class="sponsor-thumb">
+                                    <img src="assets/images/sponsor/05.png" alt="sponsor">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="sponsor-iten">
+                                <div class="sponsor-thumb">
+                                    <img src="assets/images/sponsor/06.png" alt="sponsor">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- sponsor section ending here -->
